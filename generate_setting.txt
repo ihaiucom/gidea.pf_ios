@@ -1,0 +1,2 @@
+iosRoot=../gidea_game_ios/
+webRoot=./
