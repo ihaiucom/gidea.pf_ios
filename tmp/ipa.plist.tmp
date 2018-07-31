@@ -33,13 +33,13 @@
                         <key>metadata</key>
                         <dict>
                                <key>bundle-identifier</key>
-                                <string>com.shinezone.mbqb</string>
+                                <string>pflocal.ihaiu.com</string>
                                 <key>bundle-version</key>
                                 <string>7.1.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>Just Outlaws</string>
+                                <string>票房</string>
                         </dict>
                 </dict>
         </array>
