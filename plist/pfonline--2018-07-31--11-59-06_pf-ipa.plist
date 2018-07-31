@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://mbqb.ihaiu.com/GamePF/ios/gidea_game_ios/pfonline%202018-07-30%2020-08-35/pf.ipa</string>
+                                        <string>http://mbqb.ihaiu.com/GamePF/ios/gidea_game_ios/pfonline%202018-07-31%2011-59-06/pf.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -33,7 +33,7 @@
                         <key>metadata</key>
                         <dict>
                                <key>bundle-identifier</key>
-                                <string>pflocal.ihaiu.com</string>
+                                <string>pfonline.ihaiu.com</string>
                                 <key>bundle-version</key>
                                 <string>7.1.0</string>
                                 <key>kind</key>
